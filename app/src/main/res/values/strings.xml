@@ -13,4 +13,5 @@
     <string name="nav_comentario">Comentarios</string>
     <string name="nav_acc">Solicitar Accesibilidad</string>
     <string name="title_activity_linea">Linea</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
